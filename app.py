@@ -9,7 +9,7 @@ st.set_page_config(
 )
 
 # Load trained pipeline/model
-model = joblib.load("heart_final_model.pkl")
+model = joblib.load("heart_disease_final_model.pkl")
 
 st.title("❤️ Heart Disease Prediction App")
 st.write("Please enter the patient's clinical information below.")
