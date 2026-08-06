@@ -130,7 +130,7 @@ MIT License
 🎉 Thank You!
 If you found this project helpful, please give it a ⭐ star!
 
-🌐 Live App: https://heart-disease-prediction2-ketxfk83xwhlpwe4kuf8cy.streamlit.app/
+🌐 Live App: https://heart-disease-prediction2-2vsziubidqx64ppfjzuwa6.streamlit.app/
 
 
 
