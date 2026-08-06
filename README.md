@@ -116,7 +116,7 @@ Heart-Disease-Prediction/
 └── 📜 LICENSE # MIT License
 
 How to Run Locally
-https://github.com/Ali13fffff/Heart-Disease-Prediction.git
+https://github.com/Ali13fffff/Heart-Disease-Prediction2.git
 
 ⚠️ Disclaimer
 Warning: This project is for educational and demonstration purposes only. For actual medical diagnosis, please consult a qualified healthcare professional.
