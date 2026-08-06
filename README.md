@@ -131,6 +131,7 @@ MIT License
 If you found this project helpful, please give it a ⭐ star!
 
 🌐 Live App: https://heart-disease-prediction2-2vsziubidqx64ppfjzuwa6.streamlit.app/
+Please use VPN to access this app.🖕🖕
 
 
 
